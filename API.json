@@ -1,0 +1,12 @@
+{
+    "comment": "Script Author: Roman Willi, Organization: SCL, Smart Contracts Lab, Date: 27th of June, 2023",
+    "api_key": "Please add here your OpenAI API Key",
+    "model": "gpt-4",
+    "tokens": 12000,
+    "system_content": "You are an AI which summarizes documents",
+    "user_content": "Please summarize me the next chunk like that. You build key points, and then you add below each key point a respective description.",
+    "diarize": "true",
+    "delayAPI": 10,
+    "retries": 10
+
+}
