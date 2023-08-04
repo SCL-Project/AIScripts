@@ -2,7 +2,7 @@
 Author: Roman Willi  
 Date: 28th of July, 2023
 
-
+**Link to GitHub:** [AI Scripts Repository](https://github.com/SCL-Project/AIScripts)
 
 This repository contains two main scripts (`Analyser.py` and `Transcribe.py`) that interact with OpenAI's API to perform text summarization and audio transcription respectively. Both scripts were authored by Roman Willi.
 
